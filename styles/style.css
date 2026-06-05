@@ -33,7 +33,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 8% 15vh;
+    padding: 5% 15vh;
     flex-wrap: wrap;
     gap: 100px;
 }
